@@ -67,14 +67,12 @@ I'm actively expanding my skillset with:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnusna&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-## 🎮 Dynamic Animations
 
 <div align="center">
 
-**🐍 Snake Game Animation**
 <img src="https://raw.githubusercontent.com/ibnusna/ibnusna/output/snake.svg" alt="Snake animation" />
 
-**🎯 Pac-Man Contribution Graph**
+
 <picture>
 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibnusna/ibnusna/output/pacman-contribution-graph-dark.svg">
